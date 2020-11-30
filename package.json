@@ -1,0 +1,13 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "playwright": "^1.6.2"
+  }
+}
